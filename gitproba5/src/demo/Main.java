@@ -16,7 +16,7 @@ public class Main {
 		System.out.println("sunt in metoda din clasa main");
 		System.out.println("prima schimbare facuta");
 		System.out.println("a doua schimbare");
-		System.out.println("a treia schimbareaa");
+		System.out.println("a treia schimbareaaddd");
 		
 	}
 
